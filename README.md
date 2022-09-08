@@ -9,7 +9,7 @@ dataset - (Train test splits are taken from this dataset)
 	-surgical (Surgical Mask  Images)
 	-N95 with valve (N95 with valve)
 
-link for dataset- https://drive.google.com/drive/folders/16kavL1e4v0WENa0HcPO6n3UG5mctPMhs?usp=sharing
+link for dataset- https://drive.google.com/file/d/1iepC-ZlHd5R9Sq-q0X6DPkQSwN1pzouH/view?usp=sharing
 
 testDataset (directory consisting sample images for prediction)
 	-random
